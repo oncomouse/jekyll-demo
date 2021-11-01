@@ -1,4 +1,5 @@
 ---
+layout: home
 ---
 
 Welcome to My L337 Page
